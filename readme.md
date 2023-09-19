@@ -10,4 +10,4 @@
 >Existem vários jeitos, dentro do meu código eu usei *arrays*() para fazer a listagem das extensões que seriam passadas.
 
 ## Para funcionamento <h2>
-Necessário criar uma pasta com nome 'uploads'.
+Necessário criar uma pasta com nome 'uploads' na mesma pasta do arquivo index.php.
